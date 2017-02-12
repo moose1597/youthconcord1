@@ -1,0 +1,430 @@
+{
+  "settings": {
+    "name": "NewSite-02-12_2349",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "versionFirst": "3.11.1",
+    "uniqCompNum": 16,
+    "versionPublish": "3.10.7",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".btn": {
+              "font-size": "11px"
+            }
+          },
+          "_anchor": "header1-4",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-02-12-at-23-2000x1332-4.png",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true
+          },
+          "title": "Jaypee National Youth Parliament 2017",
+          "text": "Biggest Youth Parliament of central India, Jaypee National Youth Parliament 2017 a much-anticipated event is being organized on 22th &amp; 23th April 2017 by the JUET Youth Concord under the aegis of JYC-Literary Wing.It is a simulated version of the Parliament of INDIA. It consists of The Lok- Sabha(lower house), The Rajya-Sabha(upper house) and The Crisis Committee witnessing participation of more than 800 students in the past Youth Parliaments.&nbsp;<br><br>",
+          "buttons": "     <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"index.html#header3-5\" data-toolbar=\"-mbrBtnMove\">Know more</a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-c",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.thecollegefever.com/events/jaypee-national-youth-parliament-2017\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;Apply Now &nbsp; &nbsp; &nbsp; &nbsp;<br>Delegates<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://docs.google.com/forms/d/1JcUUUEVGvMNGbuJ8oF163vGq4wWCTh2_gVHuuyt47AQ/edit?ts=58a07880\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Apply Now&nbsp;<br>Executive Board<br></a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-d",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://docs.google.com/forms/d/1JfzoXxmEqYDc3dM5muSjdttdh0kHDmtpI5Q_cwbHY5M/edit?ts=58a07835\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Apply Now<br>College <br>Ambassadors<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#header3-5\" data-toolbar=\"-mbrBtnMove\">Know More</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-b",
+          "title": "GLIPMSE",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": ""
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-02-13-at-01-129x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jaypee National Youth Parliament 2017</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-5\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts2-a\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://drive.google.com/open?id=0B-nFkSJbTcXHRmNSbGhFaFNDNE0\" target=\"_blank\">DOWNLOADS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOADS</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-02-12-at-23-2000x1332.png",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-02-12-at-23-2000x13321.png",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-02-12-at-23-2000x1332-1.png",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-02-12-at-23-2000x1332-2.png",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-02-12-at-23-2000x1332-3.png",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-3",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5",
+          "title": "Jaypee National Youth Parliament 2017",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6",
+          "text": "<p>Jaypee Youth Concord is responsible for holding MUN &amp; National Youth Parliament.</p><p>The Youth Parliament holds three simulated councils of Lok Sabha, Rajya Sabha and Crisis Management Committee whereas Model United Nations holds United Nations General Assembly. The main aim of organizing this event is to enable young people to be effective and expressive agents of change.The objective of the Youth Parliament is to teach youth democracy, equip them with debating skills, stimulate them to present their own thoughts and listen to those of others, how to follow through, advocate for an idea, and make it a reality.</p>"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Happy to see the participants coming well researched about the topic. The involvement of all the students was greatly acknowledged by the Executive Board.  A great team effort was seen in the arrangement of this successful event. Heartiest congratulations to everyone associated with it.\n\"</p>",
+              "authorName": "-\tProf. N.J.Rao&nbsp;",
+              "authorBio": "(Vice Chancellor)\r"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Well Disciplined and well Organized event by the students. Great enthusiasm and involvement was experienced by the internal and external participants. We look forward to host the next venture with more success and innovation.\n\"</p>",
+              "authorName": "-\tO.P.Gurung",
+              "authorBio": "(Registrar)"
+            },
+            {
+              "text": "I appreciate the Jaypee Youth Concord because it is one of those times in the year when we can be a part of something that has always worked on different aspects of continuing its culture of providing opportunity to speak out and is again committed to serve quality to young minds who are the back bone of the Nation.&nbsp;<p class=\"mbr-reviews__p\">&nbsp;\n                                    \n                                 \n                                              \n                     \n \n                                     \n \n                                   \n                                                                          \n             \n \n \n \n \n \n \n                                    \n                                 \n                                              \n                     \n \n                                     \n \n                                   \n                                                                          \n             \n \n \n \n \n \n</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_styles": {
+            ".mbr-reviews__author-name": {
+              "text-align": "left"
+            }
+          },
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Happy to see the participants coming well researched about the topic. The involvement of all the students was greatly acknowledged by the Executive Board.  A great team effort was seen in the arrangement of this successful event. Heartiest congratulations to everyone associated with it.\n\"</p>",
+              "authorName": "-\tProf. N.J.Rao&nbsp;",
+              "authorBio": "(Vice Chancellor)\r"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">\"Well Disciplined and well Organized event by the students. Great enthusiasm and involvement was experienced by the internal and external participants. We look forward to host the next venture with more success and innovation.\n\"</p>",
+              "authorName": "-\tO.P.Gurung",
+              "authorBio": "(Registrar)"
+            }
+          ],
+          "_anchor": "testimonials1-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": "2",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "Testinomials"
+        },
+        {
+          "items": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">I appreciate the Jaypee Youth Concord because it is one of those times in the year when we can be a part of something that has always worked on different aspects of continuing its culture of providing opportunity to speak out and is again committed to serve quality to young minds who are the back bone of the Nation.&nbsp;</p>",
+              "authorName": "NEEL DUTTAROY,",
+              "authorBio": "CHAIRPERSON LOK SABHA, JAYPEE YOUTH CONCORD 2015, 2016"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">The Jaypee Youth Concord has aimed to provide a platform for the youth to come forward and debate on certain political matters so that these young\nupcoming politicians and supporters develop their own strong views. Nation building starts from today and the delegates are taught the same through the presence and words of present iconic leaders.</p>",
+              "authorName": "BHOOMIK SHARMA,",
+              "authorBio": "CHAIRPERSON RAJYA SABHA, JAYPEE YOUTH CONCORD 2015"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p class=\"mbr-reviews__p\">I appreciate the Jaypee Youth Concord because it is one of those times in the year when we can be a part of something that has always worked on different aspects of continuing its culture of providing opportunity to speak out and is again committed to serve quality to young minds who are the back bone of the Nation.&nbsp;</p>",
+              "authorName": "NEEL DUTTAROY,",
+              "authorBio": "CHAIRPERSON LOK SABHA, JAYPEE YOUTH CONCORD 2015, 2016"
+            },
+            {
+              "text": "<p class=\"mbr-reviews__p\">The Jaypee Youth Concord has aimed to provide a platform for the youth to come forward and debate on certain political matters so that these young\nupcoming politicians and supporters develop their own strong views. Nation building starts from today and the delegates are taught the same through the presence and words of present iconic leaders.</p>",
+              "authorName": "BHOOMIK SHARMA,",
+              "authorBio": "CHAIRPERSON RAJYA SABHA, JAYPEE YOUTH CONCORD 2015"
+            }
+          ],
+          "_anchor": "testimonials1-e",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "count": "2",
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false
+          },
+          "header": "WHAT OUR FANTASTIC USERS SAY"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/jaypeeyouthconcord/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "contacts2-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "Jaypee university of Engineering and Technology",
+              "placeId": "ChIJn9a6uzr_ejkRmVM5W4aq8po",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>Jaypee University of Engineering and Technology <br>A-B Road, raghogarh, Guna, Madhya Pradesh 473226<br>www.juet.ac.in<br>\n<strong><br></strong><br><strong>CONTACTS</strong><br>•Abhisek Nigam(President)<br><span style=\"line-height: 1.7em;\">Email:&nbsp;</span><span style=\"line-height: 1.7em;\">abhishek98384@gmail.com</span><br><br>•Navneet Khare(Core Coordinator)<br><span style=\"line-height: 1.7em;\">Phone: +91 7587500801</span><br>Email : navneet.khare97@gmail.com<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://drive.google.com/open?id=0B-nFkSJbTcXHRmNSbGhFaFNDNE0\">Important Downloads</a></li><li><br></li><li><br><br></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Jaypee Youth Concord."
+        }
+      ]
+    }
+  }
+}
