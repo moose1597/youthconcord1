@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 18,
     "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -168,7 +168,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-02-12-at-23-2000x13322.png",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-02-12-at-23-2000x13321.png",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
@@ -371,6 +371,31 @@
           "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/jaypeeyouthconcord/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
         },
         {
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-g",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "youtube": "",
+            "facebook": "jaypeeyouthconcord",
+            "twitter": "",
+            "google": "",
+            "postToLoad": "3",
+            "bgImage": "@PROJECT_PATH@/assets/images/maxresdefault-1-2000x1125.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f"
+          },
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -402,7 +427,7 @@
             }
           },
           "text1": "<strong>ADDRESS</strong><br>Jaypee University of Engineering and Technology <br>A-B Road, raghogarh, Guna, Madhya Pradesh 473226<br>www.juet.ac.in<br>\n<strong><br></strong><br><strong>CONTACTS</strong><br>•Abhishek Nigam(President)<br><span style=\"line-height: 1.7em;\">Email:&nbsp;</span><span style=\"line-height: 1.7em;\">abhishek98384@gmail.com</span><br><br>•Navneet Khare(Core Coordinator, Media and Public Relations)<br><span style=\"line-height: 1.7em;\">Phone: +91 7587500801</span><br>Email : navneet.khare97@gmail.com<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://drive.google.com/open?id=0B-nFkSJbTcXHRmNSbGhFaFNDNE0\">Important Downloads</a></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>•Vaibhav Donderia(Core Coordinator, &nbsp;<span style=\"line-height: 1.7em;\">Sponsorship &amp; Public Relations</span><span style=\"line-height: 1.7em;\">) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"line-height: 1.7em;\">Phone: +91 9532758009</span></p><ul class=\"mbr-contacts__list\"><li><br></li><li><br><br></li></ul>"
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://drive.google.com/open?id=0B-nFkSJbTcXHRmNSbGhFaFNDNE0\">Important Downloads</a></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>•Vaibhav Donderia<span style=\"line-height: 1.7em;\">(Core Coordinator, &nbsp;</span><span style=\"line-height: 1.7em;\">Sponsorship &amp; Public Relations</span><span style=\"line-height: 1.7em;\">) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"line-height: 1.7em;\">Phone: +91 9532758009</span></p><ul class=\"mbr-contacts__list\"><li><br></li><li><br><br></li></ul>"
         },
         {
           "_tags": [
