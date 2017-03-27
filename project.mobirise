@@ -171,7 +171,7 @@
             "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": true
+            "showButtons": false
           },
           "logo": {
             "image": {
