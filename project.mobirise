@@ -457,7 +457,7 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "13px",
               "color": "#efefef"
             }
@@ -481,7 +481,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Jaypee University of Engineering and Technology <br>A-B Road, raghogarh, Guna, Madhya Pradesh 473226<br>www.juet.ac.in<br>\n<strong><br></strong><br><strong>CONTACTS</strong><br>•Abhishek Nigam(President)<br><span style=\"line-height: 1.7em;\">Email:&nbsp;</span><span style=\"line-height: 1.7em;\">abhishek98384@gmail.com</span><br><br>•Navneet Khare(Core Coordinator, Media and Public Relations)<br><span style=\"line-height: 1.7em;\">Phone: +91 7587500801</span><br>Email : navneet.khare97@gmail.com<br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Jaypee University of Engineering and Technology <br>A-B Road, raghogarh, Guna, Madhya Pradesh 473226<br>www.juet.ac.in<br>\n<strong><br></strong><br><strong>CONTACTS</strong><br>•Abhishek Nigam(President)<br>Phone:&nbsp;+91 8964940815<br><span style=\"line-height: 1.7em;\">Email:&nbsp;</span><span style=\"line-height: 1.7em;\">abhishek98384@gmail.com</span><br><br>•Navneet Khare(Core Coordinator, Media and Public Relations)<br><span style=\"line-height: 1.7em;\">Phone: +91 7587500801</span><br>Email :navneet.khare97@gmail.com<br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://drive.google.com/open?id=0B-nFkSJbTcXHRmNSbGhFaFNDNE0\" target=\"_blank\">Important Downloads</a></li></ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><ul class=\"mbr-contacts__list\"><li><br></li><li><br><br></li></ul>"
         },
         {
