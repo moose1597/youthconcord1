@@ -1,7 +1,14 @@
 
-#header1-4 {
-.btn {
-	font-size: 11px;
+#msg-box5-l {
+.mbr-header__text {
+	color: #ffffff;
+	text-align: center;
+}
+.mbr-header__subtext {
+	color: #ffffff;
+}
+.mbr-article {
+	color: #ffffff;
 }
 }
 
@@ -9,6 +16,9 @@
 }
 
 #buttons1-d {
+}
+
+#slider2-i {
 }
 
 #header3-b {
@@ -94,6 +104,9 @@ H3 {
 }
 
 #feed-g {
+undefined {
+	color: #ffffff;
+}
 }
 
 #contacts2-a {
