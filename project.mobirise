@@ -104,7 +104,7 @@
             "bgColor": "#fff"
           },
           "_anchor": "buttons1-c",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.thecollegefever.com/events/jaypee-national-youth-parliament-2017\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATIONS<br>CLOSED<br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATIONS<br>CLOSED<br></a> "
         },
         {
           "_tags": [
