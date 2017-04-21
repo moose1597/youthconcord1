@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -90,13 +90,21 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_anchor": "buttons1-m",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://drive.google.com/file/d/0B-xcNasoYGJON0hXSWw4NEt0cWM/view?usp=drive_web\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD ALLOTMENT LIST</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
           "_anchor": "buttons1-c",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://www.thecollegefever.com/events/jaypee-national-youth-parliament-2017\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;Apply Now &nbsp; &nbsp; &nbsp; &nbsp;<br>Delegates<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://docs.google.com/forms/d/1JcUUUEVGvMNGbuJ8oF163vGq4wWCTh2_gVHuuyt47AQ/edit?ts=58a07880\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;Executive Board<br>(APPLICATION CLOSED)<br></a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.thecollegefever.com/events/jaypee-national-youth-parliament-2017\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATIONS<br>CLOSED<br></a> "
         },
         {
           "_tags": [
@@ -109,7 +117,7 @@
             "bgColor": "#fff"
           },
           "_anchor": "buttons1-d",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://docs.google.com/forms/d/1JfzoXxmEqYDc3dM5muSjdttdh0kHDmtpI5Q_cwbHY5M/edit?ts=58a07835\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">College <br>Ambassadors<br>(APPLICATION CLOSED)<br></a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#header3-5\" data-toolbar=\"-mbrBtnMove\">Know More</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#header3-5\" data-toolbar=\"-mbrBtnMove\">Know More</a>"
         },
         {
           "_inherit": "slider",
@@ -155,30 +163,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/back-2000x1413.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 2",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/a3-2000x2828.jpg",
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "Slide 2",
-                "showText": false,
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/newspaper-updated-2000x2824.jpg",
+                "image": "@PROJECT_PATH@/assets/images/back-2000x1413.jpg",
                 "contentAlign": "left",
                 "showTitle": false,
                 "title": "Slide 2",
