@@ -75,7 +75,7 @@
               "src": "https://www.youtube.com/watch?v=naF3Y_qBo7Y&feature=youtu.be",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
-              "autoplay": "on",
+              "autoplay": false,
               "loop": false
             }
           },
